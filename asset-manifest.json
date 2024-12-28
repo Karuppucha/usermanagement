@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64589b23.css",
+    "main.js": "/static/js/main.f30b74ae.js",
+    "static/js/453.8c5f1d47.chunk.js": "/static/js/453.8c5f1d47.chunk.js",
+    "static/media/Gatwick.jpg": "/static/media/Gatwick.42fb2606e4a174d63881.jpg",
+    "static/media/background.jpeg": "/static/media/background.171b5d5418a756abc3df.jpeg",
+    "static/media/ultravioletf77.jpeg": "/static/media/ultravioletf77.7592d648f5564b05e927.jpeg",
+    "static/media/bmw.jpeg": "/static/media/bmw.f23d2c2420cdfcc22157.jpeg",
+    "static/media/ns200.jpeg": "/static/media/ns200.679dff84d86cdd42ebf7.jpeg",
+    "static/media/airborne.jpeg": "/static/media/airborne.153a9a13fc06f3e83512.jpeg",
+    "static/media/splendor.jpeg": "/static/media/splendor.3a586bb7f57649b0df80.jpeg",
+    "static/media/mt.jpeg": "/static/media/mt.1404e0c05bb9eee85e55.jpeg",
+    "static/media/ninja.jpeg": "/static/media/ninja.cfb6f14aff9d542db1e5.jpeg",
+    "static/media/passion.jpeg": "/static/media/passion.1b47ac10306bc26e76f2.jpeg",
+    "static/media/komakiranger.jpeg": "/static/media/komakiranger.d7c0b5590215a0feabe1.jpeg",
+    "index.html": "/index.html",
+    "main.64589b23.css.map": "/static/css/main.64589b23.css.map",
+    "main.f30b74ae.js.map": "/static/js/main.f30b74ae.js.map",
+    "453.8c5f1d47.chunk.js.map": "/static/js/453.8c5f1d47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64589b23.css",
+    "static/js/main.f30b74ae.js"
+  ]
+}
